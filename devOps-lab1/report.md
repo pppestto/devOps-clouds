@@ -31,7 +31,7 @@
    ```
 и видим данную картину
 
-![alt text](images/1.PNG)
+![alt text](images/file-1.PNG)
 
 Понимаем что nginx работает и двигаемся дальше.
 
