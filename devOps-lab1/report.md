@@ -31,7 +31,7 @@
    ```
 и видим данную картину
 
-![alt text](images/file-1.PNG)
+![alt text](images/1.PNG)
 
 Понимаем что nginx работает и двигаемся дальше.
 
@@ -117,7 +117,7 @@
     sudo certbot --nginx
 ```
     
-![alt text](images/file-1.png)
+![alt text](images/file-1.PNG)
 
 - При получении сертификата certbot автоматически настроил файл
     
