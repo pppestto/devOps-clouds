@@ -17,7 +17,7 @@
 
 - Пишем простое приложение на Go
 
-    ![alt text](<images/1.png>)
+    ![alt text](<images/1.PNG>)
 
 - Пишем плохой Dockerfile, используя “bad practices”
 
@@ -59,7 +59,7 @@
     ```
     docker build -t flask-app .
     ```
-    ![alt text](<images/2.png>)
+    ![alt text](<images/2.PNG>)
 
     ![alt text](<images/3.png>)
 
@@ -116,7 +116,7 @@
     docker build -t flask-app-2 .
     ```
 
-    ![alt text](<images/4.png>)
+    ![alt text](<images/4.PNG>)
 
     ![alt text](<images/5.png>) 
 
