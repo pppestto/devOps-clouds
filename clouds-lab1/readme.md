@@ -40,7 +40,7 @@ AWS Amplify (Simple Email Service) — это облачный сервис от
 Amazon SNS (Simple Notification Service) — сервис посылки уведомлений между сетевыми компонентами Amazon Web Services и внешними компонентами. Обеспечивает массовую доставку сообщений в сложной сети.
 
 ## Результат работы
-![Иллюстрация к проекту](Снимок.png)
+![Иллюстрация к проекту](Снимок.PNG)
 [Ссылка на таблицу.](https://docs.google.com/spreadsheets/d/1tFCuZzq99t4NTIo7qs-eYrphb1o8GEEI/edit?gid=1188086136#gid=1188086136)
 
 ## Вывод
