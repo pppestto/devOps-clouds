@@ -46,8 +46,8 @@ jobs:
           echo "Deploying to production..."
 ```
 
-![](bad1.PNG)
-![](bad2.PNG)
+![](images/bad1.PNG)
+![](images/bad2.PNG)
 
 ### Описание:
 
@@ -114,9 +114,9 @@ jobs:
         run: echo "Deploying to production environment..."
 ```
 
-![](good1.PNG)
-![](good2.PNG)
-![](good3.PNG)
+![](images/good1.PNG)
+![](images/good2.PNG)
+![](images/good3.PNG)
 
 ### Описание:
 
